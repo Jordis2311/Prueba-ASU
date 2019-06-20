@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX_BUFFER 64
+#define MAX_BUFFER 32
 
 typedef struct{
     int dni;
